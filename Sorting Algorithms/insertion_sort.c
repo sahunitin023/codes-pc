@@ -2,7 +2,6 @@
 int main()
 {
     int a[] = {45, 63, 22, 79, 32, 51};
-    printf("Enter an Unsorted array: ");
     for (int i = 1; i < 6; i++)
     {
         int j = i - 1;
