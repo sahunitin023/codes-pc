@@ -21,7 +21,7 @@ int prime(int a, int b)
             cout << a << " ";
         prime(a + 1, b);
     }
-}
+}   
 int main()
 {
     int a, b;

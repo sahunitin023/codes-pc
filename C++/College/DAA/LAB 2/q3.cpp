@@ -17,7 +17,7 @@ int hanoi(char from, char to, char others, int num)
     if (num <= 0)
     {
         cout << "Invalid number" << endl;
-    }
+    }   
     if (num == 1)
     {
         cout << "Move disk from " << from << " to " << others << endl;

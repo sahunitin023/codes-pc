@@ -17,11 +17,6 @@ int search(int A[], int x, int low, int high)
     {
         cout<<mid+1;
         temp--;
-        //int i = mid, j = mid;
-        // while (A[--i] == x)
-        //     cout<<i<<" ";
-        // while (A[++j] == x)
-        //     cout<<j<<" ";
     }
     if(mid>h)
     {
